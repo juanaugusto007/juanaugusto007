@@ -18,10 +18,13 @@ Meu objetivo é aplicar esses conhecimentos para oferecer as melhores e mais ava
 ### ✨ Estatísticas do GitHub
 
 <p align="center">
+  <img src="https://img.shields.io/github/public-repos/juanaugusto007?style=for-the-badge&logo=github&label=Reposit%C3%B3rios&color=informational" alt="Total de Repositórios Públicos"/>&nbsp;&nbsp;
+</p>
+
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanaugusto007&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub de Juan Augusto" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanaugusto007&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub de Juan Augusto (Total de Commits Incluído)" />
+  </a>&nbsp;&nbsp; <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanaugusto007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Linguagens de Juan Augusto" />
   </a>
 </p>
@@ -64,3 +67,4 @@ Meu objetivo é aplicar esses conhecimentos para oferecer as melhores e mais ava
 </p>
 
 ---
+
