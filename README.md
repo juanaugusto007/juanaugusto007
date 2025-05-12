@@ -1,7 +1,6 @@
 # Olá! 👋 Sou Juan Augusto 💻
 
 [![Meu Perfil no GitHub](https://img.shields.io/badge/GitHub-juanaugusto007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanaugusto007)
-![Contador de Visualizações](https://img.shields.io/endpoint?url=https://hits.dwyl.com/juanaugusto007/juanaugusto007.json?color=blue&style=for-the-badge&label=VIEWS)
 
 Sou um **Desenvolvedor Orientado a Objetos** 🚀 especializado na criação de soluções **Web e Mobile** de alto impacto. Ao longo da minha carreira, tenho focado no desenvolvimento de projetos robustos e escaláveis utilizando **JavaScript**, com expertise consolidada nos frameworks **React Native, Next.js e React.js**.
 
@@ -12,31 +11,6 @@ Estou constantemente buscando aprimoramento e me aprofundando em tecnologias eme
 * 🎓 Pós-graduação em **Computação Quântica**
 
 Meu objetivo é aplicar esses conhecimentos para oferecer as melhores e mais avançadas soluções.
-
----
-
-### ✨ Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://img.shields.io/github/public-repos/juanaugusto007?style=for-the-badge&logo=github&label=Reposit%C3%B3rios&color=informational" alt="Total de Repositórios Públicos"/>&nbsp;&nbsp;
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanaugusto007&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="Estatísticas do GitHub de Juan Augusto (Ano Corrente)" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanaugusto007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Linguagens de Juan Augusto" />
-  </a>
-</p>
-
----
-
-### 📅 Gráfico de Contribuições do Último Ano
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juanaugusto007&theme=tokyonight&hide_border=true&area=true" alt="Gráfico de Contribuições do GitHub de Juan Augusto" />
-</p>
 
 ---
 
